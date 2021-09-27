@@ -1,4 +1,4 @@
-## Hi there 👋 <br> I am **Daniel Arteta Salazar** and you are welcome to my profile
+<h1> ¡Hola! Welcome to my profile 👋 </h1> 
 
 - 🔭 I am currently looking for my first job as developer
 - 🌱 I am currently learning about DevOps
