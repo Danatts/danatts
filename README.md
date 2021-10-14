@@ -24,5 +24,3 @@
 - Spanish (Native)
 - English (B1)
 
-**[Check my website for complete information](https://danatts.github.io/homepage/)**
-
