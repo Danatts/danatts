@@ -1,8 +1,9 @@
 <h1> ¡Hola! Welcome to my profile 👋 </h1> 
 
-- 🔭 I am currently looking for my first job as developer
-- 🌱 I am currently learning about DevOps
-- 📫 How to reach me: danielatts97@gmail.com
+I am Daniel Arteta Salazar, an economics student currently doing my degree work. During my career I have worked with programming languages such as VBA, R and Python for data analysis. But right now, I am mainly developing in JavaScript building web applications.
+
+- 📫 Email: danielatts97@gmail.com
+- 👨 LinkedIn: https://www.linkedin.com/in/danielartetasalazar/
 
 ## :computer: Techonologies
 <div class="row">
